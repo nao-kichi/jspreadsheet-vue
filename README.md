@@ -1,3 +1,30 @@
+# ディレクトリ作成
+mkdir jspreadsheet
+
+# vueの初期化
+vue create .
+
+# 起動
+npm run serve
+
+# インストール系統
+# install jspreadsheet
+yarn install
+yarn add vuex
+yarn add vuex-persist
+yarn add vue-router
+yarn add vuex-pathify
+yarn add jspreadsheet
+yarn add jspreadsheet vue
+
+# install jexcel
+yarn install
+yarn add vuex
+yarn add vuex-persist
+yarn add jexcel
+yarn add vue-router
+yarn add vuex-pathify
+yarn add jspreadsheet vue
 
 # 実装予定
 ・保存機能
